@@ -1,1 +1,1 @@
-# Firdavs-zikirov.github.io
+# firdavs-zikirov.github.io
