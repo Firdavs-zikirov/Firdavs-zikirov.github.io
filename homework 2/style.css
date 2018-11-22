@@ -1,0 +1,19 @@
+body{
+	background: url(earth.jpg) no-repeat;
+	background-size:100% 100%;
+	font-family:verdana;
+}
+h3{
+	color: brown;
+}
+li{
+	color: yellow;
+}
+h2 a{
+	color: red;
+
+	}
+	h2{
+		text-align: center;
+
+	}
